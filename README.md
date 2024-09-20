@@ -1,2 +1,1 @@
-# GSH
-Ghjar se Hath
+# gsh_mobile_app
